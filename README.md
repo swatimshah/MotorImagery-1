@@ -1,6 +1,4 @@
 # MotorImagery-1
-
-# DrivingDirection-80.8 <br/>
 Epoch 200: val_accuracy did not improve from 0.47407   <br/>
 121/121 [==============================] - 0s 3ms/step - loss: 0.4957 - accuracy: 0.6811 - val_loss: 1.1168 - val_accuracy: 0.4315   <br/>
 [[ 58  27 114]   <br/>
